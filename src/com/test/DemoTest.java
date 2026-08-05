@@ -4,10 +4,10 @@ public class DemoTest {
 
 	public int sum()
 	{
-		int a=10, b=20,c;
+		int a=10, b=20,c,xyz;
 		c=a+b;
 		//System.out.println(c);
-		return a;
+		return axyz;
 	}
 	
 	public static void main(String[] args) {

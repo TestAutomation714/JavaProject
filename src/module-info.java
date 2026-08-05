@@ -1,2 +1,2 @@
-module Test1Copy {
+module JavarojTestGit {
 }

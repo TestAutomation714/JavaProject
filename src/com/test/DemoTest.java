@@ -13,7 +13,7 @@ public class DemoTest {
 		  int fty;
 		    int k=m*n;
 		    System.out.println("value::"+k);
-		return k;
+		return adsd;
 	}
 	
 	public static void main(String[] args) {

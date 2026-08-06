@@ -8,6 +8,8 @@ public class DemoTest {
 		c=ab+bc;
 		System.out.println(c);
 		  int e=20, f=30;
+		  int xyz;
+		  int fty;
 		    int k=e*f;
 		    System.out.println("value::"+k);
 		return adsd;

@@ -4,7 +4,7 @@ public class DemoTest {
 
 	public int sum()
 	{
-		int a=10, b=20,c,ad;
+		int a=10, b=20,c,ad = 0;
 		c=a+b;
 		System.out.println(c);
 		return ad;

@@ -6,10 +6,8 @@ public class DemoTest {
 	{
 		int a=10, b=20,c,ad;
 		c=a+b;
-		System.out.println(c);
-		return a;
-		
-		
+		//System.out.println(c);
+		return ad;
 	}
 	
 	public static void main(String[] args) {

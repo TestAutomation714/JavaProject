@@ -4,7 +4,7 @@ public class DemoTest {
 
 	public int sum()
 	{
-		int ab=10, bc=20,c,adsd = 0;
+		int ab=10, bc=20,c,Xyz=0,adsd = 0;
 		int m=20, n=30;
 		c=ab+bc;
 		System.out.println(c);
@@ -13,7 +13,7 @@ public class DemoTest {
 		  int fty;
 		    int k=m*n;
 		    System.out.println("value::"+k);
-		return adsd;
+		return Xyz;
 	}
 	
 	public static void main(String[] args) {

@@ -4,13 +4,13 @@ public class DemoTest {
 
 	public int sum()
 	{
-		int a=10, b=20,c,ad = 0;
-		c=a+b;
+		int ab=10, bc=20,c,adsd = 0;
+		c=ab+bc;
 		System.out.println(c);
 		  int e=20, f=30;
 		    int k=e*f;
 		    System.out.println("value::"+k);
-		return ad;
+		return adsd;
 	}
 	
 	public static void main(String[] args) {

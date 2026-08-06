@@ -4,18 +4,19 @@ public class DemoTest {
 
 	public int sum()
 	{
-		int a=10, b=20,c,ad = 0;
-		c=a+b;
+		int ab=10, bc=20,c,adsd = 0;
+		c=ab+bc;
 		System.out.println(c);
-		return ad;
+		  int e=20, f=30;
+		    int k=e*f;
+		    System.out.println("value::"+k);
+		return adsd;
 	}
 	
-	public static void main(String[] args) throws InterruptedException {
+	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		DemoTest t1=new DemoTest();
     int d=t1.sum();
-    System.out.println(d);
-    Thread.sleep(3000);
 	}
 
 }
